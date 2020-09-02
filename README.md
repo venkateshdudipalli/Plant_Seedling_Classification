@@ -1,5 +1,5 @@
 # Plant Seedling Classification
-##Domain Background
+## Domain Background
 Image classification has become one of the most important problems that Machine learning and deep learning can solve.
 
 In This project I will use one of kaggle Competition’s dataset, this dataset contains images of approximately 960 unique plants belonging to 12 species at several growth stages It comprises annotated RGB images with a physical resolution of roughly 10 pixels per mm. The SIGNAL PROCESSING GROUP Department of Engineering – Aarhus University had uploaded this dataset in order to give it wider exposure, to give the community an opportunity to experiment with different image recognition techniques, as well to provide a place to cross-pollinate ideas.
@@ -8,7 +8,7 @@ The database have been recorded at Aarhus University Flakkebjerg Research statio
 
 
 
-##Install
+## Install
 his project requires Python 3.5 or later and the following Python libraries installed:
 
 [NumPy]
